@@ -4,7 +4,7 @@ A bright, airy **light** theme for kids: the calm warm-paper **Flexoki Light** p
 
 ![Preview](preview.png)
 
-> The preview is a placeholder (the wallpaper itself). Replace it with a real desktop screenshot after installing.
+> The preview is a real desktop screenshot of the theme in use.
 
 ## Install
 
